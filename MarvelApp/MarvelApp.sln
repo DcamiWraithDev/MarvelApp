@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelApp", "MarvelApp\MarvelApp.csproj", "{BFC73860-1C78-45E7-909B-F533A2AA17CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelDB", "MarvelDB\MarvelDB.csproj", "{661F2F70-5E2C-4EE5-BCE1-A3127897CD14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BFC73860-1C78-45E7-909B-F533A2AA17CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFC73860-1C78-45E7-909B-F533A2AA17CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFC73860-1C78-45E7-909B-F533A2AA17CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661F2F70-5E2C-4EE5-BCE1-A3127897CD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661F2F70-5E2C-4EE5-BCE1-A3127897CD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661F2F70-5E2C-4EE5-BCE1-A3127897CD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661F2F70-5E2C-4EE5-BCE1-A3127897CD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
